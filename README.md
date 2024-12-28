@@ -37,7 +37,7 @@ This repository contains the following resources to help you get started with ma
 To get started with this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-basics.git
+git clone https://github.com/Adityaraizada1/Machine-Learning.git
 ```
 
 Explore the tutorials and code examples to build your understanding of machine learning fundamentals.
