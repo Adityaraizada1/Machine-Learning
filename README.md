@@ -1,6 +1,6 @@
 ---
 
-![Machine Learning Banner](/Users/macbookair/Documents/machine-learning/banner.jpg)
+![Machine Learning Banner](/banner.jpg)
 
 ---
 
