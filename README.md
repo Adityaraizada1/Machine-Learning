@@ -1,6 +1,6 @@
 ---
 
-![Machine Learning Banner](https://www.google.com/imgres?q=machine%20learning%20banner&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fmachine-learning-banner-artificial-intelligence_107791-611.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fmachine-learning-banner-artificial-intelligence_6993831.htm&docid=TPs06f5taUTuOM&tbnid=aCYQg0jyz_b-oM&vet=12ahUKEwiXnMrb4cmKAxWhzjgGHXt_GqkQM3oECGgQAA..i&w=626&h=337&hcb=2&ved=2ahUKEwiXnMrb4cmKAxWhzjgGHXt_GqkQM3oECGgQAA)
+![Machine Learning Banner](/Users/macbookair/Documents/machine-learning/banner.jpg)
 
 ---
 
