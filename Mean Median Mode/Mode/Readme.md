@@ -1,10 +1,10 @@
-# Mode in Machine Learning
+# 📊 Mode in Machine Learning
 
-## What is Mode?
+## 🤔 What is Mode?
 
 Mode is a statistical measure that represents the most frequently occurring value in a dataset. It is particularly useful in understanding the distribution and central tendency of categorical data.
 
-## Example of Code
+## 📝 Example of Code
 
 Here is an example of how to calculate the mode in Python using the `statistics` module:
 
@@ -17,7 +17,7 @@ mode_value = statistics.mode(data)
 print(f"The mode of the dataset is: {mode_value}")
 ```
 
-## How Mode is Used in Machine Learning
+## 💡 How Mode is Used in Machine Learning
 
 In machine learning, the mode can be used in various ways, including:
 
